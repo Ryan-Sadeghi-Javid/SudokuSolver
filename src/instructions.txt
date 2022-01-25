@@ -1,0 +1,1 @@
+Welcome to Sudoku Solver! Please input the digits you currently have on your sudoku board, and click the "solve" button. Using the backtracking algorithm, this software will determine the missing digits from the board. If you wish to reset the board, click the "reset" button.
